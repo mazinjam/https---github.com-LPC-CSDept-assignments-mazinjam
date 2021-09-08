@@ -23,7 +23,7 @@ int main()
   cout << "Score2 " << s.score[1] << "\t";
   cout << "Sum " << s.sum << "\t";
   cout << "Avg " << s.avg << "\t";
-  //hi
-  
+  //h
+
 
 }
